@@ -25,7 +25,6 @@ class Layer(StrEnum):
     MARTS = "marts"
 
 
-
 class DataType(StrEnum):
     """Spark-compatible column data types supported by the engine."""
 
