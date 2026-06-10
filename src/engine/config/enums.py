@@ -21,6 +21,9 @@ class Layer(StrEnum):
     BRONZE = "bronze"
     SILVER = "silver"
     GOLD = "gold"
+    STAGING = "staging"
+    MARTS = "marts"
+
 
 
 class DataType(StrEnum):
